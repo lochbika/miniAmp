@@ -1,0 +1,18 @@
+====+  Parts List for Z:\home\kk\Nextcloud\Guitar\Mini Stereo Amp build\TinyCAD\tCad1.dsn  +====
+
+#R2,R4                         2   10,0.25 Watt,AX3_1N
+#C10,C4                        2   1000u,Capacitor Electrolytic,RA2_4
+#R1,R3                         2   10k,0.25 Watt,AX3_1N
+#C3,C8                         2   10u,Capacitor Electrolytic,RA2_4
+#C2,C7                         2   33n,Capacitor,BOX1_1
+#C1,C6                         2   33p,Capacitor,BOX1_1
+#C5,C9                         2   47n,Capacitor,BOX1_1
+J3,J8                         2   Bass boost switch,Connector 2 Pin,SIP2
+J1                            1   Input left,Connector 3 Pin,SIP3
+J6                            1   Input right,Connector 3 Pin,SIP3
+#U1,U2                         2   LM386,Package for any 8 pin device,DIP8
+J2                            1   Volume left,Connector 3 Pin,SIP3
+J7                            1   Volume right,Connector 3 Pin,SIP3
+J4                            1   power,Connector 2 Pin,SIP2
+J5                            1   speaker left,Connector 3 Pin,SIP3
+J9                            1   speaker right,Connector 3 Pin,SIP3
