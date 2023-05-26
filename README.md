@@ -1,7 +1,6 @@
 # Mini Stereo Amplifier
 This is a very simple 2x1 watt stereo amplifier, based on the LM386 IC.
 
-
 ## Features
 * stereo line-in input
 * switchable bass boost
@@ -20,11 +19,24 @@ With my speakers, I quickly figured out that I don't need the bass boost. So, I 
 To complete the project, you will need some additional hardware
 
 * RCA sockets for the audio input
-* a stereo potentiometer for the volume control
+* a stereo potentiometer (A10K) for the volume control
 * speaker terminals to connect, wait for it, speakers
 * a power LED is nice to have
 * I also use a power switch to be able to switch it off without pulling the plug
 * and of course a nice case
+
+### Example links for hardware
+
+* [A10K stereo potentiometer](https://www.audiophonics.fr/en/potentiometres-potentiometre-logarithmique/stereo-potentiometer-vra-100s10-10k-ohm-p-2385.html)
+* [Speaker terminals](https://www.audiophonics.fr/en/binding-posts/dynavox-clamp-terminals-plated-gold-12mm-4-p-7946.html)
+* [RCA sockets](https://www.audiophonics.fr/en/rca-sockets/elecaudio-er-109-rca-inlet-gold-plated-red-unit-p-12354.html)
+* [Power supply](https://www.audiophonics.fr/en/power-supply/ac-adapter-100-240v-to-12v-3a-dc-p-11826.html)
+
+## My simple setup
+The following very simple illustration shows how I use the amplifier board. It's configured with dual switchable inputs, a volume control, a power switch and indicator LED.
+
+![configuration](my_setup.png)
+
 
 ## Files
 
